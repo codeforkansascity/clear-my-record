@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+Here is an edit of this page
 
 You can use the [editor on GitHub](https://github.com/codeforkansascity/clear-my-record/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
