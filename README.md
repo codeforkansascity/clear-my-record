@@ -1,5 +1,8 @@
 ## Clear My Record
-Place a description of Clear My Record Code for KC/UMKC School of Law project here.  
+
+Clear My Record is a project to design software to assist users to complete the process of expunging criminal convictions. Intially, the project is focused on providing assistance to persons seeking expungement under the laws of the state of Missouri. Effective January 1, 2018, the State of Missouri greatly expanded the convictions qualifying for expungement. The law also provided for the creation of tools for individuals to complete the expungement process without having to retain an attorney to assist.  
+
+Clear My Record is a joint project of Code for KC and the UMKC School of Law.Place a description of Clear My Record Code for KC/UMKC School of Law project here.  
 
 You can use the [editor on GitHub](https://github.com/codeforkansascity/clear-my-record/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
