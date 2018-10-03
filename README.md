@@ -16,6 +16,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+[Wikilink](https://github.com/codeforkansascity/clear-my-record/)
+
+
+
 - Bulleted
 - List
 
