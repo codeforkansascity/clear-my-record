@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-Here is an edit of this page
+## Clear My Record
+Place a description of Clear My Record Code for KC/UMKC School of Law project here.  
 
 You can use the [editor on GitHub](https://github.com/codeforkansascity/clear-my-record/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
