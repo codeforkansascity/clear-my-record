@@ -1,8 +1,24 @@
 ## Clear My Record
 
-Clear My Record is a project to design software to assist users to complete the process of expunging criminal convictions. Intially, the project is focused on providing assistance to persons seeking expungement under the laws of the state of Missouri. Effective January 1, 2018, the State of Missouri greatly expanded the convictions qualifying for expungement. The law also provided for the creation of tools for individuals to complete the expungement process without having to retain an attorney to assist.  
+Clear My Record is a project to design software to assist users to complete the process of expunging criminal convictions. 
 
-Clear My Record is a joint project of Code for KC and the UMKC School of Law.Place a description of Clear My Record Code for KC/UMKC School of Law project here.  
+Intially, the project is focused on providing assistance to persons seeking expungement under the laws of the state of Missouri. Effective January 1, 2018, the State of Missouri greatly expanded the convictions qualifying for expungement. The law also provided for the creation of tools for individuals to complete the expungement process without having to retain an attorney to assist.  
+
+Clear My Record is a joint project of Code for KC and the UMKC School of Law.Code for KC is a local brigade associated with Code for America and provides assistance to governmental and non-profit entities to improve the operation of government and non-profit services. Code for KC is affiliated locally with KC Digital Drive.  
+
+The University of Missouri - Kansas City School of Law has been serving the Kansas City metropolitan area for over 123 years. UMKC School of Law has programs to train its students to utilize technology to improve the delivery of professional legal serivces.
+
+## Project Outline
+
+Clear My Record is in the second semester of a three-semester development process. The first semester was focused on discovery of the legal foundations of the law and the relevant procedures. The second semester is engaged in a design process to create a service model and begin the process of building the delivery system. The final semester will focus on implementing and beta testing delivery system and establishing a model for interative and continuous development of the service and marketing the service. 
+
+## Collaboration and Innovation
+
+The model being used for crafting and implementing a Clear My Record product is a continuum of service. For those users who are able, the system will allow for the individual to complete the process alone. For those users whose circumstances are more complex and necessitate legal advice, the system will serve as a tool for use by an attorney retained by the user. 
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/codeforkansascity/clear-my-record/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
