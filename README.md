@@ -18,6 +18,10 @@ Syntax highlighted code block
 
 [Wikilink](https://github.com/codeforkansascity/clear-my-record/wiki)
 
+https://github.com/codeforkansascity/clear-my-record/wiki
+
+
+
 
 
 - Bulleted
