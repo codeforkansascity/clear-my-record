@@ -4,9 +4,11 @@ Clear My Record is a project to design software to assist users to complete the 
 
 Intially, the project is focused on providing assistance to persons seeking expungement under the laws of the state of Missouri. Effective January 1, 2018, the State of Missouri greatly expanded the convictions qualifying for expungement. The law also provided for the creation of tools for individuals to complete the expungement process without having to retain an attorney to assist.  
 
-Clear My Record is a joint project of Code for KC and the UMKC School of Law.Code for KC is a local brigade associated with Code for America and provides assistance to governmental and non-profit entities to improve the operation of government and non-profit services. Code for KC is affiliated locally with KC Digital Drive.  
+Clear My Record is a joint project of Code for KC and the UMKC School of Law.Code for KC is a local brigade associated with Code for America and provides assistance to governmental and non-profit entities to improve the operation of government and non-profit services. Code for KC is affiliated locally with KC Digital Drive. The University of Missouri - Kansas City School of Law has been serving the Kansas City metropolitan area for over 123 years. UMKC School of Law has programs to train its students to utilize technology to improve the delivery of professional legal serivces.
 
-The University of Missouri - Kansas City School of Law has been serving the Kansas City metropolitan area for over 123 years. UMKC School of Law has programs to train its students to utilize technology to improve the delivery of professional legal serivces.
+## What is Expungement?
+
+Expungement is erasing the criminal conviction of an individual who has successfully completed the terms of sentencing and who has not had a subsequent criminal conviction within the recent past (seven years for a felony, three years for a misdemeanor). When a conviction has been expunged, the person generally does not need to disclose the previous conviction. Some convictions are not subject to expungement. Other convictions may be subject to expungement but must be disclosed when applying for certain jobs or licenses.  
 
 ## Project Outline
 
@@ -16,8 +18,16 @@ Clear My Record is in the second semester of a three-semester development proces
 
 The model being used for crafting and implementing a Clear My Record product is a continuum of service. For those users who are able, the system will allow for the individual to complete the process alone. For those users whose circumstances are more complex and necessitate legal advice, the system will serve as a tool for use by an attorney retained by the user. 
 
+## User-Centric Approach
+
+The project team is using a user-centric design approach. Potential users include individuals seeking expungement, defense attorneys, legal aid clinics, judges, court clerks, prosecutors, legislators and policy analysts.  The design process is being informed by interviews of users of all types. 
+
+## How to Help
+
+If you would like more information or would like to assist in the development of Clear My Record, you may contact Professor Ellen Suni at sunie@umkc.edu or Scott Stockwell at motionl@icloud.com. 
 
 
+**Below is language to delete before the website is advertised.  
 
 
 You can use the [editor on GitHub](https://github.com/codeforkansascity/clear-my-record/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
