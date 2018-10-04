@@ -1,4 +1,10 @@
-## Clear My Record
+## Menu
+
+**[Wiki](https://github.com/codeforkansascity/clear-my-record/wiki)
+     **Issues
+     **Project Management
+
+## About Clear My Record
 
 Clear My Record is a project to design software to assist users to complete the process of expunging criminal convictions. 
 
@@ -27,7 +33,9 @@ The project team is using a user-centric design approach. Potential users includ
 If you would like more information or would like to assist in the development of Clear My Record, you may contact Professor Ellen Suni at sunie@umkc.edu or Scott Stockwell at motionl@icloud.com. 
 
 
-**Below is language to delete before the website is advertised.  
+
+
+**Below is language to delete before the website is advertised.**
 
 
 You can use the [editor on GitHub](https://github.com/codeforkansascity/clear-my-record/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
