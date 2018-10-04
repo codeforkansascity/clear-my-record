@@ -2,7 +2,7 @@
 
 ### [Wiki](https://github.com/codeforkansascity/clear-my-record/wiki)     
 ### [Project Management](https://github.com/codeforkansascity/clear-my-record/projects)
- ### [Design]()
+ * ### [Design](https://github.com/codeforkansascity/clear-my-record/projects/1)
  ### Establishing Relationships with Users
  ### Research of Legal and Ethical Foundations
  ### Building the Application
