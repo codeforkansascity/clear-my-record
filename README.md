@@ -1,8 +1,9 @@
 ## Menu
 
-**[Wiki](https://github.com/codeforkansascity/clear-my-record/wiki)
-     **Issues
-     **Project Management
+### [Wiki](https://github.com/codeforkansascity/clear-my-record/wiki)     
+### [Project Management]()
+### [Issues](https://github.com/codeforkansascity/clear-my-record/issues)
+ 
 
 ## About Clear My Record
 
