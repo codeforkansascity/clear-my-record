@@ -1,7 +1,11 @@
 ## Menu
 
 ### [Wiki](https://github.com/codeforkansascity/clear-my-record/wiki)     
-### [Project Management]()
+### [Project Management](https://github.com/codeforkansascity/clear-my-record/projects)
+ ### [Design]()
+ ### Establishing Relationships with Users
+ ### Research of Legal and Ethical Foundations
+ ### Building the Application
 ### [Issues](https://github.com/codeforkansascity/clear-my-record/issues)
  
 
