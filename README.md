@@ -6,7 +6,7 @@
 * ### [Establishing Relationships with Stakeholders](https://github.com/codeforkansascity/clear-my-record/projects/2)
 * ### [Discovering and Examining Legal Issues](https://github.com/codeforkansascity/clear-my-record/projects/3)
 * ### [Building the Application](https://github.com/codeforkansascity/clear-my-record/projects/4)
-### [Issues](https://github.com/projectscodeforkansascity/clear-my-record/issues)
+### [Issues](https://github.com/codeforkansascity/clear-my-record/issues)
  
 
 ## About Clear My Record
