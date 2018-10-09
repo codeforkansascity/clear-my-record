@@ -8,7 +8,7 @@
 * ### [Building the Application](https://github.com/codeforkansascity/clear-my-record/projects/4)
 ### [Issues](https://github.com/codeforkansascity/clear-my-record/issues)
  
- [Ellen's Link](codeforkc.org/clear-my-record)
+ [Ellen's Link](https://codeforkc.org/clear-my-record)
 
 ## About Clear My Record
 
